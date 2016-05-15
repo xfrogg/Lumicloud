@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mode0">Off</string>
+  <string name="modea">Aurora</string>
+  <string name="modec">Clouds</string>
+  <string name="modeo">Ocean</string>
+  <string name="model">Lightning</string>
+  <string name="modep">Party</string>
+  <string name="moder">Rainbow</string>
+  <string name="modes">Rainbow stripes</string>
+  <string name="modem">Magma</string>
+  <string name="ApplicationName">LumiCloud</string>
+</resources>

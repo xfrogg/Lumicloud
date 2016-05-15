@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/btnMode0"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mode0"
+        android:enabled="false" />
+    <Button
+        android:id="@+id/btnModea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modea"
+        android:enabled="false" />
+    <Button
+        android:id="@+id/btnModec"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modec"
+        android:enabled="false" />
+    <Button
+        android:id="@+id/btnModeo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modeo"
+        android:enabled="false" />
+    <Button
+        android:id="@+id/btnModel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/model"
+        android:enabled="false" />
+    <Button
+        android:id="@+id/btnModep"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modep"
+        android:enabled="false" />
+    <Button
+        android:id="@+id/btnModer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/moder"
+        android:enabled="false" />
+    <Button
+        android:id="@+id/btnModes"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modes"
+        android:enabled="false" />
+    <Button
+        android:id="@+id/btnModem"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modem"
+        android:enabled="false" />
+</LinearLayout>
